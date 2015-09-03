@@ -1,0 +1,6 @@
+dist
+django_nav_menu.egg-info
+.idea
+*.pyc
+*~
+
