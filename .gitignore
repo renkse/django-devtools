@@ -1,5 +1,5 @@
 dist
-django_nav_menu.egg-info
+django_devtools.egg-info
 .idea
 *.pyc
 *~
